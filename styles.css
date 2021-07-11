@@ -320,6 +320,8 @@ form .submit:hover {
     padding-bottom: 5vw;
     border-radius: 5vw;
     color: #313035;
+    margin-bottom: 5vw;
+    margin-top: 5vw;
 }
 .row1:after {
     content: "";
